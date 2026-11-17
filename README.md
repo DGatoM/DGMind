@@ -1,6 +1,6 @@
 # DG Mind
 
-**Em construção. Em breve aqui.**
+**Em construção. O projeto oficial fica em [DG-Mind](https://github.com/DGatoM/DG-Mind).**
 
 O DG Mind é um kit de inteligência artificial que funciona sem internet. A ideia é ter no seu computador, num HD externo ou num notebook velho, tudo o que você precisaria se a conexão sumisse: um modelo de IA rodando localmente, a Wikipédia, livros, manuais práticos, mapas com rota de carro e um agente que conversa com você em português e sabe usar esse acervo.
 
